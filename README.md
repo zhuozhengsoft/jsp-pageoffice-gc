@@ -10,8 +10,12 @@
 ### 三、项目运行步骤
 
 1. 使用git clone或者直接下载项目压缩包到本地并解压缩。
+
 2. 拷贝 jsp-pageoffice-gc文 件 夹 到Tomcat的Webapps目录下,启动tomcat。
+
 3. 启动浏览器访问：http://localhost:8080/jsp-pageoffice-gc/index.html ，然后在此index.html页面根据当前国产版客户端的操作系统及芯片的版本，手动下载双击安装对应的PageOffice国产版客户端后，即可在线打开、编辑、保存office文件 。
+
+   > 注意：如果双击安装PageOffice国产版客户端遇到问题，可换命令方式安装PageOffice国产版客户端，具体命令为：sudo dpkg -i  com.zhuozhengsoft.xxxx.deb
 
 ### 四、PageOffice国产版序列号
 
